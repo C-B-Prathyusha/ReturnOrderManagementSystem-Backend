@@ -2,14 +2,14 @@
 
 Cloud Link: http://localhost:8080-> For accessing the locally deployed application
 
-http://localhost:8000/swagger-ui/ -> Swagger for authentication microservice
-http://localhost:8001/swagger-ui/ -> Swagger for component processing microservice
-http://localhost:8002/swagger-ui/ -> Swagger for packaging and delivery microservice
+http://localhost:8000/swagger-ui/ -> Swagger for authentication microservice </br>
+http://localhost:8001/swagger-ui/ -> Swagger for component processing microservice </br>
+http://localhost:8002/swagger-ui/ -> Swagger for packaging and delivery microservice</br>
 
 Login credentials:
 
-username: Prathyu | password: admin
-username: Shilpa | password: admin
+username: Prathyu | password: admin</br>
+username: Shilpa | password: admin</br>
 Project Overview:
 
 This project deals with the return order management wherein a pre-created user can login into the system and can perform:
